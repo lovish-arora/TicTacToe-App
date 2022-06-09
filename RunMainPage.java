@@ -353,8 +353,7 @@ public class tic extends JFrame implements ActionListener
         {
             if(flag == 0)
             {
-                JOptionPane.showMessageDialog(null,player2+ " Wins
-                ");
+                JOptionPane.showMessageDialog(null,player2+ " Wins);
                 this.dispose();
             }
             if(flag == 1)
